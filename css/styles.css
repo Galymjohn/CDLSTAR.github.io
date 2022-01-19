@@ -18,6 +18,10 @@ body{
   font-weight: 900;
 }
 
+.a{
+  font-size: 200%;
+}
+
 section-heading {
   font-size: 3rem;
   line-height: 1.5;
@@ -26,7 +30,9 @@ section-heading {
 h1, h2, h4, h5 {
   font-family: "Montserrat";
 }
-
+.h3 {
+  font-size: 300%;
+}
 /* containers */
 .container-padding{
   padding: 7% 15%;
@@ -83,12 +89,12 @@ h1, h2, h4, h5 {
 .rus-btn {
   margin: 5% 3% 5% 0;
   position: fixed;
+}
 
 .rus {
   color: red;
 }
 
-}
 
 .icon:hover {
   color: #ff4c68;
@@ -97,7 +103,7 @@ h1, h2, h4, h5 {
 /* testimonials */
 #testimonials.color-secton{
   background-color: #fff;
-  color: #black;
+  color: black;
 }
 
 /* press */
