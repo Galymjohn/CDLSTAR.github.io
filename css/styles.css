@@ -20,6 +20,11 @@ body{
 
 .a{
   font-size: 200%;
+  font-weight:100;
+}
+
+.b{
+  font-weight: bolder;
 }
 
 section-heading {
